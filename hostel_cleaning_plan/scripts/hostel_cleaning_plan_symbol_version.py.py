@@ -1,3 +1,10 @@
+"""
+Author: mgbrc
+Year: 2026
+
+You may copy or modify this script, but please always credit the original author.
+"""
+
 import os
 import re
 import glob
@@ -265,4 +272,5 @@ elements.append(main_table)
 doc.build(elements)
 
 print(f"PDF plan successfully created: {output_file}")
+
 input("Enter")
