@@ -193,3 +193,8 @@ The project is oriented toward real working conditions of housekeeping staff and
 If you have questions or suggestions for improving the scripts, you can create an issue in the repository or submit a pull request.
 
 This repository is intended to simplify the cleaning planning process and can be adapted for other hostels or hotel properties.
+## License
+
+This project is licensed under the [CC BY 4.0](LICENSE) license.
+
+You may copy or modify the files, but please always credit the original autor: mgbrc.
