@@ -21,6 +21,8 @@ The `output(examples)` folder is intended for generated PDFs, such as:
 
 `README.md` is located in the root and contains all instructions and explanations.
 
+`LICENSE` — Project license information.
+
 ## Installation and Running
 
 To run the scripts, **Python 3.8 or higher** is required, along with the following libraries:
